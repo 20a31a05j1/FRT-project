@@ -5,9 +5,9 @@ This is a web based application developed for health related telugu based websit
 ### This web based application has been developed for the applications of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime,Quess ,Github and Ey.
 
 Team Members:
-1. Nirogi Venkata Naga Sai Vardhan - 20a31a05i3
+1. Vakalapudi Sri Satya Siva Ranjan - 20a31a05j1
 2. Mohammad Haneef - 20a31a05h9
-3. Vakalapudi Sri Satya Siva Ranjan - 20a31a05j1
+3. Nirogi Venkata Naga Sai Vardhan - 20a31a05i3
 
 ** Project Link**-https://lively-water-0295f6710.3.azurestaticapps.net
 
